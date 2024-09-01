@@ -10,14 +10,25 @@ The DFAMS project aimed to streamline and centralize the management of client as
 
 Dark Forest Consulting operates in a dynamic environment where clients rely heavily on their IT infrastructure for daily operations. The company's success depends on its ability to provide timely and accurate support to its clients. However, the existing systems for tracking client hardware, software configurations, and service requests were manual, disjointed, and prone to errors. 
 
-Some key challenges included:
-- Inefficient tracking of client hardware and software configurations.
-- Difficulty in managing warranty periods for various hardware components.
-- Lack of a centralized system for password and configuration management.
-- Inadequate system for handling and documenting client service requests.
-- Challenges in accessing client data remotely for on-call technicians.
+### Problem Statement
 
-To address these challenges, the DFAMS project was initiated with the goal of creating a centralized, secure, and efficient system that could manage all aspects of client asset management.
+The following diagram illustrates the core issues faced by Dark Forest Consulting, including the causes and effects that contributed to the inefficiencies in managing client assets:
+
+![Problem Statement Diagram](path_to_problem_statement_diagram.png)
+
+As shown in the diagram, the main problem was the inefficient management of client hardware and software configurations, leading to increased operational costs, client dissatisfaction, and risks of data breaches.
+
+## Solution Overview
+
+To address these challenges, the DFAMS project proposed a comprehensive solution comprising several key components:
+
+### Solution Architecture
+
+The DFAMS solution was designed with a centralized database at its core, integrating various systems and features to streamline processes and enhance service quality. The following diagram illustrates the high-level architecture of the solution:
+
+![Solution Architecture Diagram](path_to_solution_architecture_diagram.png)
+
+This architecture shows how the centralized database interacts with the service request portal, barcode scanning system, security features, and existing financial and inventory systems, effectively addressing the issues identified in the problem statement.
 
 ## Deliverables
 
