@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-The **Dark Forest Asset Management System (DFAMS)** project was undertaken to address the growing challenges faced by Dark Forest Consulting, a provider of computer networks and web services in Cork, Ireland. As the complexity of client installations and the number of clients grew, managing hardware and software configurations became increasingly difficult. This led to inefficiencies, delayed responses, and potential client dissatisfaction. 
+The **Dark Forest Asset Management System (DFAMS)** project was undertaken to address the growing challenges faced by Dark Forest Consulting, a provider of computer networks and web services in Cork, Ireland. Managing hardware and software configurations became increasingly difficult as the complexity of client installations and the number of clients grew. This led to inefficiencies, delayed responses, and potential client dissatisfaction. 
 
 The DFAMS project aimed to streamline and centralize the management of client assets, service requests, and warranties, thereby improving operational efficiency, enhancing service quality, and ensuring client satisfaction.
 
 ## Background
 
-Dark Forest Consulting operates in a dynamic environment where clients rely heavily on their IT infrastructure for daily operations. The company's success depends on its ability to provide timely and accurate support to its clients. However, the existing systems for tracking client hardware, software configurations, and service requests were manual, disjointed, and prone to errors. 
+Dark Forest Consulting operates in a dynamic environment where clients rely heavily on their IT infrastructure. The company's success depends on its ability to provide timely and accurate client support. However, the existing systems for tracking client hardware, software configurations, and service requests were manual, disjointed, and prone to errors. 
 
 ## Problem Statement: Inefficient Management of Client Assets
 
