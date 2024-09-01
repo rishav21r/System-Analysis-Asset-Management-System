@@ -14,7 +14,7 @@ Dark Forest Consulting operates in a dynamic environment where clients rely heav
 
 The following diagram illustrates the core issues faced by Dark Forest Consulting, including the causes and effects that contributed to the inefficiencies in managing client assets:
 
-![Problem Statement Diagram](.images/Ishikawa.png)
+![Problem Statement Diagram](./images/Ishikawa.png)
 
 As shown in the diagram, the main problem was the inefficient management of client hardware and software configurations, leading to increased operational costs, client dissatisfaction, and risks of data breaches.
 
