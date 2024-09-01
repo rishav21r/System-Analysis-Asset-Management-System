@@ -10,11 +10,11 @@ The DFAMS project aimed to streamline and centralize the management of client as
 
 Dark Forest Consulting operates in a dynamic environment where clients rely heavily on their IT infrastructure for daily operations. The company's success depends on its ability to provide timely and accurate support to its clients. However, the existing systems for tracking client hardware, software configurations, and service requests were manual, disjointed, and prone to errors. 
 
-### Problem Statement
+## Problem Statement: Inefficient Management of Client Assets
 
 The following diagram illustrates the core issues faced by Dark Forest Consulting, including the causes and effects that contributed to the inefficiencies in managing client assets:
 
-![Problem Statement Diagram](path_to_problem_statement_diagram.png)
+![Problem Statement Diagram](./images/ishikawa.png)
 
 As shown in the diagram, the main problem was the inefficient management of client hardware and software configurations, leading to increased operational costs, client dissatisfaction, and risks of data breaches.
 
@@ -22,7 +22,7 @@ As shown in the diagram, the main problem was the inefficient management of clie
 
 To address these challenges, the DFAMS project proposed a comprehensive solution comprising several key components:
 
-### Solution Architecture
+## Solution Architecture
 
 The DFAMS solution was designed with a centralized database at its core, integrating various systems and features to streamline processes and enhance service quality. The following diagram illustrates the high-level architecture of the solution:
 
