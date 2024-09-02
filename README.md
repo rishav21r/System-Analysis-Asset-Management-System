@@ -53,9 +53,9 @@ The DFAMS project was structured into several key deliverables, each addressing 
 ## Functional Requirements:
 
 1. **Configuration and Component Tracking:**
-   1.1. A searchable database for client configuration and component tracking.
-   1.2. Barcode scanning functionality for inventory management and logging components at client sites.
-   1.3. System to automatically record the type and details of components during inventory check-ins and installations.
+   * 1.1. A searchable database for client configuration and component tracking.
+   * 1.2. Barcode scanning functionality for inventory management and logging components at client sites.
+   * 1.3. System to automatically record the type and details of components during inventory check-ins and installations.
 
 2. **Service Request Management:**
    2.1. A portal for clients to submit service requests and report problems.
