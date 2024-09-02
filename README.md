@@ -18,6 +18,15 @@ The following diagram illustrates the core issues faced by Dark Forest Consultin
 
 As shown in the diagram, the main problem was the inefficient management of client hardware and software configurations, leading to increased operational costs, client dissatisfaction, and risks of data breaches.
 
+## Business Objectives
+
+The primary business objectives of the DFAMS project were:
+1. **Enhance Operational Efficiency**: By centralizing and automating asset management processes, the project aimed to reduce the time and effort required to track and manage client configurations, service requests, and warranties.
+2. **Improve Service Quality**: The system was designed to ensure timely and accurate responses to client issues, reducing downtime and improving client satisfaction.
+3. **Ensure Data Security and Accessibility**: The DFAMS aimed to provide secure access to critical client data for on-call technicians, ensuring that they could provide support from any location without compromising security.
+4. **Support Business Growth**: By improving the efficiency and quality of service delivery, the project aimed to support the company's growth by retaining existing clients and attracting new ones.
+
+
 ## Solution Overview
 
 To address these challenges, the DFAMS project proposed a comprehensive solution comprising several key components:
@@ -48,9 +57,10 @@ The DFAMS project was structured into several key deliverables, each addressing 
 
 ![Problem Statement Matrix](./images/poc_matrix.png)
 
-- **List of Requirements**: Detailed the functional and non-functional requirements of the DFAMS, ensuring that all technical and user needs were captured. This list served as the blueprint for the system's design and development.
+####List of Requirements
+Detailed the functional and non-functional requirements of the DFAMS, ensuring that all technical and user needs were captured. This list served as the blueprint for the system's design and development.
 
-## Functional Requirements:
+#### Functional Requirements:
 
 1. **Configuration and Component Tracking:**
    * 1.1. A searchable database for client configuration and component tracking.
@@ -78,7 +88,7 @@ The DFAMS project was structured into several key deliverables, each addressing 
 6. **System Integration:**
    * 6.1. Integration with the existing financial system, SunSage, to access and consider clients' outstanding bills.
 
-## Non-Functional Requirements:
+#### Non-Functional Requirements:
 
 1. **Security:**
    - Measures to secure the database against unauthorized access and protect it from hacking.
@@ -96,25 +106,36 @@ The DFAMS project was structured into several key deliverables, each addressing 
 
 ### Part 3: Use-Case Model Glossary & Diagram
 - **Use-Case Model Glossary**: Defined the key terms and interactions within the system, ensuring a common understanding among all stakeholders.
+
+![Use-Case Model Glossary](./images/usecase_glossary.png)
+
 - **Use-Case Model Diagram**: Visually represented the interactions between users (clients, technicians, and administrators) and the system, helping to clarify the system's functionality and user interface.
 
-### Part 4: Entity/Definition Matrix, Entity Relationship Diagram (ERD), Activity Diagram & UML Class Diagram
-- **Entity/Definition Matrix**: Defined the data entities within the system, such as clients, service requests, and equipment, and described their attributes and relationships.
+![Use-Case Model Diagram](./images/usecase.png)
+
+### Part 4: Entity Relationship Diagram (ERD), Activity Diagram & UML Class Diagram
 - **Entity Relationship Diagram (ERD)**: Illustrated the relationships between data entities, providing a blueprint for the database structure.
+
+![Entity Relationship Diagram](./images/erd.png)
+
 - **Activity Diagram**: Mapped out the workflow for service requests, ensuring efficient process management.
+
+![Activity Diagram](./images/activity.png)
+
 - **UML Class Diagram**: Modeled the system's object-oriented structure, defining the classes and their relationships.
+
+![UML Class Diagram](./images/class.png)
+
 
 ### Part 5: User Persona, Scenario, and User Stories
 - **User Persona**: Created detailed personas representing the system's end-users, such as technicians and clients, to ensure the system met their needs.
 - **Scenario & User Stories**: Developed scenarios and user stories to guide the system's design from a user-centric perspective, ensuring a focus on usability and functionality.
 
-## Business Objectives
+![User Persona Carloz](./images/persona1.png)
 
-The primary business objectives of the DFAMS project were:
-1. **Enhance Operational Efficiency**: By centralizing and automating asset management processes, the project aimed to reduce the time and effort required to track and manage client configurations, service requests, and warranties.
-2. **Improve Service Quality**: The system was designed to ensure timely and accurate responses to client issues, reducing downtime and improving client satisfaction.
-3. **Ensure Data Security and Accessibility**: The DFAMS aimed to provide secure access to critical client data for on-call technicians, ensuring that they could provide support from any location without compromising security.
-4. **Support Business Growth**: By improving the efficiency and quality of service delivery, the project aimed to support the company's growth by retaining existing clients and attracting new ones.
+
+![User Persona Sarah](./images/persona2.png)
+
 
 ## Business Outcomes
 
@@ -123,20 +144,6 @@ The successful implementation of the DFAMS resulted in several positive business
 - **Higher Client Satisfaction**: The improved tracking of service requests and configurations led to faster response times and fewer errors, which translated into higher client satisfaction and retention.
 - **Enhanced Security**: The system's robust security features ensured that sensitive client data was protected, reducing the risk of data breaches and maintaining client trust.
 - **Scalability for Future Growth**: The system was designed with scalability in mind, allowing Dark Forest Consulting to expand its operations without facing the same inefficiencies that previously hindered growth.
-
-## How to Use this Repository
-
-This repository contains all the deliverables related to the DFAMS project. Each folder corresponds to a specific part of the project and contains the relevant documentation and diagrams.
-
-### Folder Structure
-- **Part1_Request_Documents**: Contains the Request for Information System Service and Problem Statement Matrix.
-- **Part2_Analysis_Matrices**: Contains the POC Matrix and List of Requirements.
-- **Part3_Use_Cases**: Contains the Use-Case Model Glossary and Diagram.
-- **Part4_Diagrams**: Contains the Entity/Definition Matrix, ERD, Activity Diagram, and UML Class Diagram.
-- **Part5_User_Personas**: Contains the User Personas, Scenarios, and User Stories.
-
-### Viewing the Documents
-Each document is stored in its respective folder and can be viewed directly on GitHub or downloaded for offline use. Diagrams are provided in both image formats and as part of the documentation files.
 
 ---
 
