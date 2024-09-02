@@ -26,7 +26,7 @@ To address these challenges, the DFAMS project proposed a comprehensive solution
 
 The DFAMS solution was designed with a centralized database at its core, integrating various systems and features to streamline processes and enhance service quality. The following diagram illustrates the high-level architecture of the solution:
 
-![Solution Architecture Diagram](path_to_solution_architecture_diagram.png)
+![Solution Architecture Diagram](./images/architect.png)
 
 This architecture shows how the centralized database interacts with the service request portal, barcode scanning system, security features, and existing financial and inventory systems, effectively addressing the issues identified in the problem statement.
 
