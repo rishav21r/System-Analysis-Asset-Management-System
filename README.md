@@ -53,30 +53,30 @@ The DFAMS project was structured into several key deliverables, each addressing 
 ## Functional Requirements:
 
 1. **Configuration and Component Tracking:**
-- 1.1. A searchable database for client configuration and component tracking.
-- 1.2. Barcode scanning functionality for inventory management and logging components at client sites.
-- 1.3. System to automatically record the type and details of components during inventory check-ins and installations.
+   * 1.1. A searchable database for client configuration and component tracking.
+   * 1.2. Barcode scanning functionality for inventory management and logging components at client sites.
+   * 1.3. System to automatically record the type and details of components during inventory check-ins and installations.
 
 2. **Service Request Management:**
-   2.1. A portal for clients to submit service requests and report problems.
-   2.2. Tracking the progress of each service request until it's resolved.
-   2.3. Maintenance of a detailed history of services performed on each issue.
-   2.4. Allowing technicians to view open service requests and select them for resolution.
-   2.5. Automatic escalation feature for service requests that remain unresolved for a specific time, with the ability to override the default time.
+   * 2.1. A portal for clients to submit service requests and report problems.
+   * 2.2. Tracking the progress of each service request until it's resolved.
+   * 2.3. Maintenance of a detailed history of services performed on each issue.
+   * 2.4. Allowing technicians to view open service requests and select them for resolution.
+   * 2.5. Automatic escalation feature for service requests that remain unresolved for a specific time, with the ability to override the default time.
 
 3. **Warranty Tracking:**
-   3.1. A feature for technicians to access warranty information for each piece of equipment while on-site.
+   * 3.1. A feature for technicians to access warranty information for each piece of equipment while on-site.
 
 4. **Configuration Information Management:**
-   4.1. Tracking system for sensitive configuration data such as usernames, passwords, IP addresses, port numbers, and web addresses.
-   4.2. A web-enabled database that allows real-time updates from the client's place of business.
+   * 4.1. Tracking system for sensitive configuration data such as usernames, passwords, IP addresses, port numbers, and web addresses.
+   * 4.2. A web-enabled database that allows real-time updates from the client's place of business.
 
 5. **Client Interaction:**
-   5.1. Functionality for clients to independently enter their service requests online.
-   5.2. Capability for staff to enter service requests on behalf of clients when they call in.
+   * 5.1. Functionality for clients to independently enter their service requests online.
+   * 5.2. Capability for staff to enter service requests on behalf of clients when they call in.
 
 6. **System Integration:**
-   6.1. Integration with the existing financial system, SunSage, to access and consider clients' outstanding bills.
+   * 6.1. Integration with the existing financial system, SunSage, to access and consider clients' outstanding bills.
 
 ## Non-Functional Requirements:
 
