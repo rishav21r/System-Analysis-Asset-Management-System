@@ -116,7 +116,7 @@ Detailed the functional and non-functional requirements of the DFAMS, ensuring t
 ### Part 4: Entity Relationship Diagram (ERD), Activity Diagram & UML Class Diagram
 - **Entity Relationship Diagram (ERD)**: Illustrated the relationships between data entities, providing a blueprint for the database structure.
 
-![Entity Relationship Diagram](./images/erd.png)
+![Entity Relationship Diagram](./images/ERD.png)
 
 - **Activity Diagram**: Mapped out the workflow for service requests, ensuring efficient process management.
 
@@ -131,10 +131,10 @@ Detailed the functional and non-functional requirements of the DFAMS, ensuring t
 - **User Persona**: Created detailed personas representing the system's end-users, such as technicians and clients, to ensure the system met their needs.
 - **Scenario & User Stories**: Developed scenarios and user stories to guide the system's design from a user-centric perspective, ensuring a focus on usability and functionality.
 
-![User Persona Carloz](./images/persona1.png)
+![User Persona Carloz](./images/Persona1.png)
 
 
-![User Persona Sarah](./images/persona2.png)
+![User Persona Sarah](./images/Persona2.png)
 
 
 ## Business Outcomes
