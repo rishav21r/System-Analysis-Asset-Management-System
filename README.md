@@ -131,10 +131,10 @@ Detailed the functional and non-functional requirements of the DFAMS, ensuring t
 - **User Persona**: Created detailed personas representing the system's end-users, such as technicians and clients, to ensure the system met their needs.
 - **Scenario & User Stories**: Developed scenarios and user stories to guide the system's design from a user-centric perspective, ensuring a focus on usability and functionality.
 
-![User Persona Carloz](./images/Persona1.png)
+![User Persona Carloz](./images/Persona1.jpg)
 
 
-![User Persona Sarah](./images/Persona2.png)
+![User Persona Sarah](./images/Persona2.jpg)
 
 
 ## Business Outcomes
